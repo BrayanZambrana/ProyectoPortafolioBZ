@@ -1,1 +1,147 @@
+h1{
+    color: #68A88E;
+}
 
+.menu ul{
+ display: flex;
+ column-count: 5;
+ justify-content: space-around;
+ list-style: none;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ position: relative;
+ top: -20px;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    list-style: none;
+    position: relative;
+    top: 15px;
+
+}
+.menu ul{
+    background-color: #2185b1;
+    padding: 0px -5px;
+    top: -15px;
+}
+.fotomia img{
+    width: 410px;
+    height: 400px;
+    border-radius: 50%;
+    position: relative;
+    left: 550px;
+}
+.fotomia img{
+    display: inline-block;
+    background-color: #2185b1;
+}
+.fotomia p{
+    position: relative;
+    text-align: center;
+}
+.fotomia h1{
+    position: relative;
+    text-align: center;
+}
+.titusobremi{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #f2f2f2;
+    position: relative;
+    top: -20px;
+}
+.sobmi ul{
+    display: flex;
+    column-count: 2;
+    justify-content: space-around;
+
+}
+.sobmi p{
+    color: #68A88E;
+    text-decoration: none;
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+.fotosobmi{
+    position: relative;
+
+}
+.sobmi ul li p{
+    position: relative;
+    width: 0px;
+    height: 90px;
+}
+.contac h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    position: relative;
+    text-align: center;
+}
+.contac ul {
+    display: flex;
+    column-count: 6;
+    justify-content: space-around;
+    list-style: none;
+    position: relative;
+    top: 20px;
+}
+.contac ul li p{
+    color: #f2f2f2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.pie{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+}
+.contactos{
+    display: flex;
+    column-count: 5;
+    justify-content: space-around;
+    list-style: none;  
+    position: relative;
+    left: 15px; 
+}
+.textcontac{
+    display: flex;
+    column-count: 5;
+    justify-content: space-around;
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    text-align: center;
+    color: #2185b1;
+}
+.trabajos{
+   position: relative;
+   text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 30px;
+}
+.trabajo1{
+    position: relative;
+    top: 20px;
+}
+.trabajo2{
+    position: relative;
+    top: -335px;
+    left: 900px;
+}
+.trabajo3{
+    position: relative;
+    text-align: center;
+}
+.trabajo3{
+    top: -300px;
+    left: -50px;
+}
+.higuys{
+    color: #f2f2f2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
